@@ -4,4 +4,6 @@ This is my implementation of the [“Drawing a triangle”](https://vulkan-tutor
 
 ## The triangle
 
-<img src="the_triangle.png" alt="The triangle" width=50% />
+<div align="center">
+  <img src="the_triangle.png" alt="The triangle" width=80% />
+</div>
